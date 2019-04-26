@@ -6,3 +6,8 @@ Simple demo showing how to use esprima to create an abstract syntax tree, estrav
 
 * clone repo
 * npm install
+
+# additional resources: 
+
+http://esprima.org/demo/parse.html
+http://tobyho.com/2013/12/02/fun-with-esprima/
